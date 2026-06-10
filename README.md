@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm currently a Student @ MITADT University as a 2nd Year Undergrad.<br>🏠 I'm from Pune, India. and I'm a FullStack Developer.<br>💻 I'm focused on expanding my skills in both frontend and backend development aswell as Cloud Computing in AWS. <br>🌱 My goal is to master full-stack technologies and cloud integrations to build impactful, scalable applications.
+🎓 I'm currently a Student @ MIT Art, Design & Technology University as a 2nd Year Undergrad.<br>🏠 I'm from Pune, India. and I'm a FullStack Developer.<br>💻 I'm focused on expanding my skills in both frontend and backend development aswell as Cloud Computing in AWS. <br>🌱 My goal is to master full-stack technologies and cloud integrations to build impactful, scalable applications.
 
 
 ## 🌐 Socials:
